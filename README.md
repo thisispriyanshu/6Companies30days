@@ -9,8 +9,8 @@
 #### Day 1-5 :
 #### Company Name : Goldman Sachs
 
-- [ ] 1. Given an array of strings, return all groups of strings that are anagrams.<a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a>
-- [ ] 2. Overlapping rectangles <a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a>
+- [x] 1. Given an array of strings, return all groups of strings that are anagrams.<a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a>
+- [x] 2. Overlapping rectangles <a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a>
 - [ ] 3. Count the subarrays having product less than k <a href="https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/">Link</a>
 - [ ] 4. Given a string, Your task is to  complete the function encode that returns the run length encoded string for the given string. eg if the input string is “wwwwaaadexxxxxx”, then the function should return “w4a3d1e1x6″.(Modified version of question named Cute Monkeys) <a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Link</a>
 - [ ] 5. Program to find Nth Ugly Number. <a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Link</a>
