@@ -13,7 +13,7 @@
 - [x] 2. Overlapping rectangles <a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a>
 - [ ] 3. Count the subarrays having product less than k <a href="https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/">Link</a>
 - [ ] 4. Given a string, Your task is to  complete the function encode that returns the run length encoded string for the given string. eg if the input string is “wwwwaaadexxxxxx”, then the function should return “w4a3d1e1x6″.(Modified version of question named Cute Monkeys) <a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Link</a>
-- [ ] 5. Program to find Nth Ugly Number. <a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Link</a>
+- [x] 5. Program to find Nth Ugly Number. <a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Link</a>
 - [ ] 6. Given two strings str1 and str2. We say that str2 divides str1 if it's possible to concatenate multiple str2 to get str1. For example, ab divides abab. if str2 does not divide str1, return -1. Otherwise, return the smallest string str3 such that str3 divides both str1 and str2. <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Link</a>
 - [ ] 7. Find the kid which gets the damaged toy <a href="https://www.geeksforgeeks.org/distributing-m-items-circle-size-n-starting-k-th-position/">Link</a>
 - [ ] 8. Total Decoding Messages <a href="https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/">Link</a>
