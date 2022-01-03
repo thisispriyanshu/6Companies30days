@@ -22,5 +22,5 @@
 - [ ] 11. Given an unsorted array Arr of size N of positive integers. One number 'A' from     set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers. <a href="https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/">Link</a>
 - [ ] 12. Find total number of Squares in a N*N chessboard <a href="https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard/0">Link</a>
 - [ ] 13. Decode the string <a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Link</a>
-- [ ] 14. Minimum Size Subarray Sum <a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a>
+- [x] 14. Minimum Size Subarray Sum <a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a>
 - [ ] 15. Array Pair Sum Divisibility Problem <a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a>
