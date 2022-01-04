@@ -20,7 +20,7 @@
 - [x] 9. Given a pattern containing only I's and D's. I for increasing and D for decreasing.Devise an algorithm to print the minimum number following that pattern. <a href="https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Link</a>
 - [ ] 10. Find max 10 numbers in a list having 10M entries. <a href="https://leetcode.com/discuss/interview-experience/514986/Goldman-Sachs-Interview-Process-and-Questions">Link</a>
 - [x] 11. Given an unsorted array Arr of size N of positive integers. One number 'A' from     set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers. <a href="https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/">Link</a>
-- [ ] 12. Find total number of Squares in a N*N chessboard <a href="https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard/0">Link</a>
+- [x] 12. Find total number of Squares in a N*N chessboard <a href="https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard/0">Link</a>
 - [ ] 13. Decode the string <a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Link</a>
 - [x] 14. Minimum Size Subarray Sum <a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a>
 - [x] 15. Array Pair Sum Divisibility Problem <a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a>
