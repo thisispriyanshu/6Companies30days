@@ -28,7 +28,7 @@
 #### Day 6-10 :
 #### Company Name : Amazon
 
-- [ ] 1. Calculating Maximum Profit (Multiple Ladders Question) <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1">Link</a>
+- [x] 1. Calculating Maximum Profit (Multiple Ladders Question) <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1">Link</a>
 - [ ] 2. Longest Mountain <a href="https://leetcode.com/problems/longest-mountain-in-array/">Link</a>
 - [ ] 3. 3.IPL 2021 - Match Day 2 (similar to maximum in subarray) <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/
 ">Link</a>
