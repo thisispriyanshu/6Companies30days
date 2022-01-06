@@ -40,7 +40,7 @@
 - [ ] 9.Which among them forms a perfect Sudoku Pattern ? <a href="https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/">Link</a>
 - [ ] 10.Nuts and Bolts Problem <a href="https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1">Link</a>
 - [ ] 11.Tree Serialization and Deserialization <a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Link</a>
-- [ ] 12.Column name from a given column number <a href="">Link</a>
+- [ ] 12.Column name from a given column number <a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Link</a>
 - [ ] 13.Rotten Oranges -Multiple Repetitions <a href="https://leetcode.com/problems/rotting-oranges/">Link</a>
 - [ ] 14.Tree Burning <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Link</a>
 - [ ] 15. Delete N nodes after M nodes of a linked list <a href="https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/">Link</a>
