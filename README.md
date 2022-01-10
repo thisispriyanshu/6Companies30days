@@ -30,7 +30,7 @@
 
 - [x] 1. Calculating Maximum Profit (Multiple Ladders Question) <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1">Link</a>
 - [x] 2. Longest Mountain <a href="https://leetcode.com/problems/longest-mountain-in-array/">Link</a>
-- [ ] 3. 3.IPL 2021 - Match Day 2 (similar to maximum in subarray) <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/
+- [x] 3. 3.IPL 2021 - Match Day 2 (similar to maximum in subarray) <a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/
 ">Link</a>
 - [ ] 4.Brackets in Matrix Chain Multiplication <a href="https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/">Link</a>
 - [ ] 5.Phone directory (Question similar to this based on Amazon Pay as a service) <a href="https://practice.geeksforgeeks.org/problems/phone-directory4628/1/">Link</a>
@@ -42,5 +42,5 @@
 - [ ] 11.Tree Serialization and Deserialization <a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Link</a>
 - [ ] 12.Column name from a given column number <a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Link</a>
 - [x] 13.Rotten Oranges -Multiple Repetitions <a href="https://leetcode.com/problems/rotting-oranges/">Link</a>
-- [ ] 14.Tree Burning <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Link</a>
+- [x] 14.Tree Burning <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Link</a>
 - [ ] 15. Delete N nodes after M nodes of a linked list <a href="https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/">Link</a>
