@@ -39,7 +39,7 @@
 - [ ] 8.Count ways to N'th Stair(Order does not matter) <a href="https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/">Link</a>
 - [ ] 9.Which among them forms a perfect Sudoku Pattern ? <a href="https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/">Link</a>
 - [x] 10.Nuts and Bolts Problem <a href="https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1">Link</a>
-- [ ] 11.Tree Serialization and Deserialization <a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Link</a>
+- [x] 11.Tree Serialization and Deserialization <a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Link</a>
 - [x] 12.Column name from a given column number <a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Link</a>
 - [x] 13.Rotten Oranges -Multiple Repetitions <a href="https://leetcode.com/problems/rotting-oranges/">Link</a>
 - [x] 14.Tree Burning <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Link</a>
